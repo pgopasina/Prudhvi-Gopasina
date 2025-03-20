@@ -14,6 +14,11 @@
 - ☁️ Worked with **AWS, GCP, Docker, and GitHub Actions** for cloud deployment & automation.
 - 📊 Strong understanding of **Agile methodologies, CI/CD pipelines, and version control**.
 
+<p align="center">
+  <!-- Add a teamwork or development GIF here -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Teamwork GIF" width="300"/>
+</p>
+
 ---
 
 ### **🔧 Tech Stack & Tools**
